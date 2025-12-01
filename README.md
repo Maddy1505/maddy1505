@@ -35,6 +35,10 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="48" height="48" />
       <br>GH Actions
     </td>
+        <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
+      <br>VS Code
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -56,10 +60,6 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48" height="48" />
       <br>Android Studio
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
-      <br>VS Code
     </td>
   </tr>
 </table>
