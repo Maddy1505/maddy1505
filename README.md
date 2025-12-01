@@ -24,10 +24,6 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
       <br>Java
     </td>
     <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-  <br>Python
-</td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="48" height="48" />
       <br>HTML
     </td>
@@ -38,10 +34,6 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
         <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="48" height="48" />
       <br>GH Actions
-    </td>
-        <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="CI/CD" width="48" height="48" />
-      <br>CI/CD
     </td>
   </tr>
   <tr>
