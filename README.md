@@ -31,64 +31,35 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="48" height="48" />
       <br>CSS
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="48" height="48" />
       <br>GH Actions
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" />
-      <br>Kubernetes
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="48" height="48" />
+      <br>Dart
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-      <br>AWS
-    </td>
-        <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="48" height="48" />
-      <br>Azure
-    </td>
-        <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
-      <br>Linux
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="48" height="48" />
+      <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="48" height="48" />
-      <br>Ubuntu
-    </td>
-        <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="48" height="48" />
-      <br>Terraform
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-      <br>Docker
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canva_Logo.png/768px-Canva_Logo.png" alt="Canva" width="48" height="48" />
+      <br>Canva
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="48" height="48" />
-      <br>Jenkins
-    </td>
-        <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="48" height="48" />
-      <br>SonarQube
+      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="48" height="48" />
+      <br>Adobe XD
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="48" height="48" />
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="48" height="48" />
-      <br>Grafana
-    </td>
-        <td align="center" width="96">
-      <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="Argo CD" width="48" height="48" />
-      <br>Argo CD
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="48" height="48" />
+      <br>Android Studio
     </td>
   </tr>
 </table>
+
 
 <h2>
   <img width="24" src="https://cdn-icons-png.flaticon.com/512/9464/9464788.png" alt="Projects">&nbsp;&nbsp;Featured Projects
