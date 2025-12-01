@@ -1,10 +1,10 @@
 <div align="center">
   <h1>👋 Hello, I'm Meganathan Raj</h1>
-  <p>
-    <img src="https://img.shields.io/badge/DevOps-Enthusiast-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps Enthusiast"/>
-    <img src="https://img.shields.io/badge/SRE-Engineer-326CE5?style=for-the-badge&logo=googlecloud&logoColor=white" alt="SRE Engineer"/>
-    <img src="https://img.shields.io/badge/Cloud-Engineer-326CE5?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Engineer"/>
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Developer"/>
+  <img src="https://img.shields.io/badge/Dart-Expert-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Expert"/>
+  <img src="https://img.shields.io/badge/UI/UX-Designer-FF4088?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designer"/>
+</p>
 </div>
 
 <h2>
