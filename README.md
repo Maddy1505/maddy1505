@@ -11,7 +11,7 @@
   <img width="24" src="https://cdn-icons-png.flaticon.com/512/3001/3001758.png" alt="About Me">&nbsp;&nbsp;About Me
 </h2>
 
-I'm a DevOps Engineer who enjoys building scalable infrastructure, automating deployment processes, and enhancing system reliability. I specialize in designing CI/CD pipelines, container orchestration, and cloud-based environments that make development faster and more efficient. My focus is on creating solutions that balance simplicity, performance, and resilience — driven by a curiosity to understand how systems work and how to make them work better.
+A passionate and innovative UI/UX Designer and Flutter Developer with hands-on experience in designing and developing user-centric digital solutions. I specialize in creating seamless and visually appealing interfaces for web and mobile applications, combining my design expertise with efficient coding in Flutter.
 
 <h2>
   <img width="24" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" alt="Skills">&nbsp;&nbsp;Technical Skills
