@@ -75,7 +75,7 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
       <h3 align="center">PeakQuest TravelApp</h3>
       <div align="center">
         <a href="https://github.com/Maddy1505/PeakQuest-main" target="_blank">
-          <img src="https://github.com/Maddy1505/PeakQuest-main/blob/main/Thumbanail.gif.gif" width="350" hight="100" alt="Project"/>
+          <img src="https://github.com/Maddy1505/PeakQuest-main/blob/main/Thumbanail.gif.gif" width="350"  alt="Project"/>
         </a>
         <p>
           <a href="https://github.com/Maddy1505/PeakQuest-main" target="_blank">
@@ -89,7 +89,7 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
     <h3 align="center">EchoYak</h3>
       <div align="center">
         <a href="https://github.com/Maddy1505/EchoYak" target="_blank">
-          <img src="https://github.com/Maddy1505/EchoYak/blob/main/thumbanail.gifmaker.gif" width="350" hight="50" alt="Project"/>
+          <img src="https://github.com/Maddy1505/EchoYak/blob/main/thumbanail.gifmaker.gif" width="350"  alt="Project"/>
         </a>
         <p>
           <a href="https://github.com/Maddy1505/EchoYak" target="_blank">
