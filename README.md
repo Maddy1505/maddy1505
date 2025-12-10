@@ -138,42 +138,39 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
 
 <div>
   <div>
-    <img align="right" width="270" hieght="400"  src="https://cdn-icons-png.flaticon.com/512/8759/8759076.png" alt="DevOps & Cloud" />
-    <h3>☁️ DevOps & Cloud Infrastructure</h3>
+    <img align="right" width="270" height="400" src="https://cdn-icons-png.flaticon.com/512/8759/8759076.png" alt="Flutter Developer" />
+    <h3>Flutter Developer</h3>
     <ul>
-      <li>Automating deployments and CI/CD pipelines using <b>GitHub Actions</b> and <b>Jenkins</b></li>
-      <li>Containerizing applications with <b>Docker</b> and orchestrating using <b>Kubernetes</b></li>
-      <li>Infrastructure provisioning with <b>Terraform</b> and monitoring using <b>Prometheus</b> + <b>Grafana</b></li>
-      <li>Managing and deploying scalable cloud workloads on <b>AWS</b> and <b>Azure</b></li>
+      <li>Building scalable cross-platform apps using <b>Flutter</b> and <b>Dart</b></li>
+      <li>Integrating backend services and real-time features with <b>Firebase</b> (Auth, Firestore, Storage)</li>
+      <li>Designing responsive and interactive UIs with adaptive layouts and reusable components</li>
+      <li>Implementing state management using <b>Provider</b>, <b>GetX</b>, and <b>Riverpod</b></li>
+      <li>Optimizing performance, caching, and API handling for fast and smooth user experience</li>
+      <li>Publishing apps to <b>Google Play Store</b> and <b>Apple App Store</b> with proper build/version management</li>
     </ul>
   </div>
+</div>
+
   
   <br clear="right"/>
   
   <div>
-    <img align="left" width="350" hieght="400" src="https://apponix.com/front/images/asset/AWS-vs-azure-what-are-the-key-differences.png" alt="Cloud" />
-    <h3 align="right">☁️ Cloud Platforms</h3>
+    <img align="left" width="350" height="400" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="Flutter" />
+    <h3 align="right">📱 EchoYak Meeting App</h3>
     <p align="right">
-      Expertise in deploying and managing cloud-native applications on <b>AWS</b> and <b>Azure</b><br>
-      Experience in <b>VM</b>, <b>Storage</b>, and <b>Networking</b> configurations<br>
-      Designing cost-optimized, scalable, and fault-tolerant cloud architectures<br>
-      Implementing security and IAM best practices for multi-environment deployments
+      Developing the <b>EchoYak Meeting App</b> using Flutter for seamless video conferencing and real-time communication<br>
+      Implementing <b>Firebase</b> Auth, Firestore, and Cloud Functions for secure user management and meeting data<br>
+      Integrating <b>WebRTC</b> for live audio/video meetings with low-latency performance<br>
+      Creating intuitive UI/UX with custom widgets, animations, and interactive controls<br>
+      Setting up state management using <b>Provider</b> / <b>GetX</b> for smooth session handling and meeting workflows<br>
+      Optimizing networking, caching, and background tasks for reliable multi-user sessions across devices
     </p>
-  </div>
+</div>
+
     
   <br clear="left"/>
 
-  <div>
-    <img align="right" width="270" src="https://cdn-icons-png.flaticon.com/512/10835/10835163.png" alt="Infrastructure Automation" />
-    <h3>⚙ Infrastructure Automation</h3>
-    <ul>
-      <li>Infrastructure provisioning with <b>Terraform</b> and <b>CloudFormation</b></li>
-      <li>Creating reusable IaC modules for consistent and scalable environments</li>
-      <li>Version-controlling infrastructure using <b>GitOps</b> practices</li>
-      <li>Streamlining deployment workflows and reducing manual overhead</li>
-    </ul>
-  </div>
-</div>
+  
 
 <br clear="right"/>
 <br>
