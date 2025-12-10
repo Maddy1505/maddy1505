@@ -74,11 +74,11 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
   <td width="50%">
       <h3 align="center">PeakQuest TravelApp</h3>
       <div align="center">
-        <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
-          <img src="https://github.com/Maddy1505/PeakQuest-main/blob/main/Thumbanail.gif.gif" width="350" alt="Project"/>
+        <a href="https://github.com/Maddy1505/PeakQuest-main" target="_blank">
+          <img src="https://github.com/Maddy1505/PeakQuest-main/blob/main/Thumbanail.gif.gif" width="350" hight="250" alt="Project"/>
         </a>
         <p>
-          <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
+          <a href="https://github.com/Maddy1505/PeakQuest-main" target="_blank">
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
