@@ -155,7 +155,7 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
   <br clear="right"/>
   
   <div>
-    <img align="left" width="350" height="400" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="Flutter" />
+    <img align="left" width="350" height="400" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" />
     <h3 align="right">📱 EchoYak Meeting App</h3>
     <p align="right">
       Developing the <b>EchoYak Meeting App</b> using Flutter for seamless video conferencing and real-time communication<br>
@@ -166,6 +166,7 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
       Optimizing networking, caching, and background tasks for reliable multi-user sessions across devices
     </p>
 </div>
+
 
     
   <br clear="left"/>
