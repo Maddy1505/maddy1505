@@ -152,22 +152,7 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
 </div>
 
   
-  <br clear="right"/>
   
-  <div>
-    <img align="left" width="350" height="400" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="Flutter" />
-    <h3 align="right">📱 EchoYak Meeting App</h3>
-    <p align="right">
-      Developing the <b>EchoYak Meeting App</b> using Flutter for seamless video conferencing and real-time communication<br>
-      Implementing <b>Firebase</b> Auth, Firestore, and Cloud Functions for secure user management and meeting data<br>
-      Integrating <b>WebRTC</b> for live audio/video meetings with low-latency performance<br>
-      Creating intuitive UI/UX with custom widgets, animations, and interactive controls<br>
-      Setting up state management using <b>Provider</b> / <b>GetX</b> for smooth session handling and meeting workflows<br>
-      Optimizing networking, caching, and background tasks for reliable multi-user sessions across devices
-    </p>
-</div>
-
-
 
 
     
