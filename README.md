@@ -75,7 +75,7 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
       <h3 align="center">Netflix DevSecOps</h3>
       <div align="center">
         <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
-          <img src="https://github.com/Prakash2819/Netflix-DevSecOps/blob/main/public/assets/thumbnail.gif" width="350" alt="Project"/>
+          <img src="https://github.com/Maddy1505/PeakQuest-main/blob/main/Thumbanail.gif.gif" width="350" alt="Project"/>
         </a>
         <p>
           <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
