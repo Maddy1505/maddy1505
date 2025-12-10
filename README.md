@@ -72,7 +72,7 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
 <table>
   <tr>
   <td width="50%">
-      <h3 align="center">Netflix DevSecOps</h3>
+      <h3 align="center">PeakQuest TravelApp</h3>
       <div align="center">
         <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
           <img src="https://github.com/Maddy1505/PeakQuest-main/blob/main/Thumbanail.gif.gif" width="350" alt="Project"/>
