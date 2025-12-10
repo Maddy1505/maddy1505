@@ -155,18 +155,18 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
   <br clear="right"/>
   
   <div>
-    <img align="left" width="350" height="400" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" />
+    <img align="left" width="350" height="400" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="Flutter" />
     <h3 align="right">📱 EchoYak Meeting App</h3>
-
-    <ul align="right">
-      <li>Developing the <b>EchoYak Meeting App</b> using Flutter for seamless video conferencing and real-time communication</li>
-      <li>Implementing <b>Firebase</b> Auth, Firestore, and Cloud Functions for secure user management and meeting data</li>
-      <li>Integrating <b>WebRTC</b> for live audio/video meetings with low-latency performance</li>
-      <li>Creating intuitive UI/UX with custom widgets, animations, and interactive controls</li>
-      <li>Setting up state management using <b>Provider</b> / <b>GetX</b> for smooth session handling and meeting workflows</li>
-      <li>Optimizing networking, caching, and background tasks for reliable multi-user sessions across devices</li>
-    </ul>
+    <p align="right">
+      Developing the <b>EchoYak Meeting App</b> using Flutter for seamless video conferencing and real-time communication<br>
+      Implementing <b>Firebase</b> Auth, Firestore, and Cloud Functions for secure user management and meeting data<br>
+      Integrating <b>WebRTC</b> for live audio/video meetings with low-latency performance<br>
+      Creating intuitive UI/UX with custom widgets, animations, and interactive controls<br>
+      Setting up state management using <b>Provider</b> / <b>GetX</b> for smooth session handling and meeting workflows<br>
+      Optimizing networking, caching, and background tasks for reliable multi-user sessions across devices
+    </p>
 </div>
+
 
 
 
