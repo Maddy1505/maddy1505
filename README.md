@@ -100,35 +100,6 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
       </div>
       
   </tr>
-  <tr>
-  <td width="50%">
-      <h3 align="center">Spotify Infrastructure Automation</h3>
-      <div align="center">
-        <a href="https://github.com/Prakash2819/Terraform-Spotify" target="_blank">
-          <img src="https://github.com/Prakash2819/Terraform-Spotify/blob/main/providers/thumbnail.gif" width="350" alt="Project"/>
-        </a>
-        <p>
-          <a href="https://github.com/Prakash2819/Terraform-Spotify" target="_blank">
-            <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-          </a>
-        </p>
-          <p><strong>Terraform, AWS</strong> — Automated Spotify infrastructure provisioning with modular, scalable IaC for cloud-native deployment.</p>
-      </div>
-    </td>
-    </td>
-    <td width="50%">
-      <h3 align="center">Explore More Projects</h3>
-      <div align="center">
-        <p>Check out my repositories for more projects showcasing my skills in:</p>
-        <p>
-          <img src="https://img.shields.io/badge/DevOps-Tools-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="DevOps Tools"/>
-        </p>
-        <a href="https://github.com/prakash2819?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/View%20All%20Repositories-212121?style=for-the-badge&logo=github&logoColor=white" alt="View All"/>
-        </a>
-      </div>
-    </td>
-  </tr>
 </table>
 
 <h2>
