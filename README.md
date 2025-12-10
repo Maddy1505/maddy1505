@@ -75,28 +75,28 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
       <h3 align="center">PeakQuest TravelApp</h3>
       <div align="center">
         <a href="https://github.com/Maddy1505/PeakQuest-main" target="_blank">
-          <img src="https://github.com/Maddy1505/PeakQuest-main/blob/main/Thumbanail.gif.gif" width="350" hight="250" alt="Project"/>
+          <img src="https://github.com/Maddy1505/PeakQuest-main/blob/main/Thumbanail.gif.gif" width="350" hight="150" alt="Project"/>
         </a>
         <p>
           <a href="https://github.com/Maddy1505/PeakQuest-main" target="_blank">
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
-        <p><strong>Jenkins, Docker, Kubernetes, ArgoCD</strong> — Implemented a Netflix-inspired CI/CD pipeline integrating automated testing, security checks, and dynamic monitoring for reliable cloud delivery.</p>
+        <p><strong>Flutter, Dart, Firebase</strong> — Built the PeakQuest Travel App featuring interactive destination browsing, trip planning, secure login, cloud-synced user data, and smooth multi-platform performance.</p>
       </div>
     </td>
     <td width="50%">
-    <h3 align="center">Swiggy DevSecOps</h3>
+    <h3 align="center">EchoYak</h3>
       <div align="center">
-        <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
-          <img src="https://github.com/Prakash2819/DevSecOps-Swiggy-Project/blob/main/Photos/thumbnail.gif" width="350" alt="Project"/>
+        <a href="https://github.com/Maddy1505/EchoYak" target="_blank">
+          <img src="https://github.com/Maddy1505/EchoYak/blob/main/thumbanail.gifmaker.gif" width="350" alt="Project"/>
         </a>
         <p>
-          <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
+          <a href="https://github.com/Maddy1505/EchoYak" target="_blank">
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
         </p>
-        <p><strong>Docker, Kubernetes, Jenkins, SonarQube, Trivy, Prometheus</strong> — A complete DevSecOps pipeline implementation for the Swiggy application, featuring automated CI/CD, security scanning, container orchestration, and monitoring.</p>
+        <p><strong>Flutter, Dart, Firebase</strong> — Built the EchoYak App featuring interactive destination browsing, Meeting App, secure login, cloud-synced user data, and smooth multi-platform performance.</p>
       </div>
       
   </tr>
