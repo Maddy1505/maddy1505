@@ -113,7 +113,7 @@ A passionate and innovative UI/UX Designer and Flutter Developer with hands-on e
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Maddy1505&show_icons=true&count_private=true&theme=vue&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=333" 
       width="450" 
-      alt="Meganathan's GitHub stats" 
+      alt="Meganathan's GitHub status" 
     />
   </a>
 </div>
